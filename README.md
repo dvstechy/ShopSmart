@@ -28,7 +28,7 @@ Kotlin · Jetpack Compose · Material 3 · Navigation Compose · Room
 
 ## Feedback
 
-Found a bug or have an idea? Open an [issue](../../issues) on this repository.
+Found a bug or have an idea? Open an [issue](../../issues) on this repository or if you dont know much of GitHub email me at : work.divyashah@gmail.com
 
 ## License
 
