@@ -1,8 +1,18 @@
-# ShopSmart v1.0
+# ShopSmart
 
 Simple offline shopping lists for Android. Build your lists once, tick items off as you shop, and look back at your past trips.
 
 No sign-up. No internet needed. Your data is stored on your phone.
+
+## Download
+
+Download the latest APK: [ShopSmart.apk](ShopSmart.apk)
+
+1. Open the downloaded file on your Android phone.
+2. If prompted, allow installs from this source (Settings → Install unknown apps).
+3. Tap **Install**.
+
+Requires Android 8.0 (API 26) or newer.
 
 ## Features
 
@@ -12,26 +22,13 @@ No sign-up. No internet needed. Your data is stored on your phone.
 - **Insights:** view your shopping over time, the items you buy most often, and a breakdown by list.
 - **Settings:** choose light or dark theme and text size.
 
-## Screenshots
-
-_Coming soon._
-
 ## Tech stack
 
-- Kotlin
-- Jetpack Compose with Material 3
-- Navigation Compose
-- Room database (offline storage)
-
-## Building the app
-
-1. Download the APK and let me know what you think. You may need to allow installs from unknown sources.
-
-Requires Android 8.0 (API 26) or newer.
+Kotlin · Jetpack Compose · Material 3 · Navigation Compose · Room
 
 ## Feedback
 
-Found a bug or have an idea? Open an [issue](../../issues) on this repository or email me at work.divyashah@gmail.com
+Found a bug or have an idea? Open an [issue](../../issues) on this repository.
 
 ## License
 
